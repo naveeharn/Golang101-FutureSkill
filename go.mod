@@ -1,3 +1,3 @@
-module github.com/naveeharn/golang101-futureskill
+module github.com/naveeharn/golang101-futureskill/tree/master
 
 go 1.19
