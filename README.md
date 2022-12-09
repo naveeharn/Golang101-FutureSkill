@@ -22,7 +22,7 @@ create go.sum file in the project at terminal for any .go file import for packag
   go mod tidy
 ```
 for example
-```bash
+```go
 package main
 
 import (
