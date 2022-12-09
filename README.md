@@ -28,7 +28,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/naveeharn/Golang101_FutureSkill/go20-project/movie
+	"github.com/naveeharn/Golang101_FutureSkill/go20-project/movie"
 )
 
 func main() {
