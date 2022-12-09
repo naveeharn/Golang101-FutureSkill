@@ -18,13 +18,13 @@ for example `go mod init github.com/naveeharn/golang101`
 
 ## go.sum 
 create go.sum file in the project at terminal for any .go file import for packages from github through module name
-- approach 1
+### - approach 1
 ```zsh
   go get <module name>
 ```
 for example code `go get github.com/naveeharn/Golang101_FutureSkill`
 
-- approach 2
+### - approach 2
 ```bash
   go mod tidy
 ```
