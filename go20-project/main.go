@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/naveeharn/Golang101-FutureSkill/go20-project/movie"
-	"github.com/naveeharn/Golang101-FutureSkill/go20-project/ticket"
+	"github.com/naveeharn/Golang101-FutureSkill/movie"
+	"github.com/naveeharn/Golang101-FutureSkill/ticket"
 )
 
 func init() {
