@@ -60,7 +60,7 @@ then execute command `go mod tidy`
 |---|---|
 | `go test .`  | show **FAIL** if any testcase fail|
 | `go test -v .`  | show **PASS/FAIL** all testcases |
-| `go test -v ./...`  | start testing from current package to below package in directorty  |
+| `go test -v ./...`  | start testing from current package to below package in directory  |
 
 example how to test Add function in main.go
 - code in `main.go`
